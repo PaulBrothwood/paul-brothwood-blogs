@@ -35,6 +35,19 @@ Articles covering operational leadership, business transformation and project de
 
 Long-distance touring, the Suzuki Hayabusa, Honda Adventure Roads and motorcycle travel across Europe.
 
+## Explore by Topic
+
+* Sustainability and Environment
+* Leadership and Management
+* ISO 9001, ISO 14001 and ISO 45001
+* PRINCE2 and ITIL
+* Honda Adventure Roads 2026
+* Suzuki Hayabusa
+* Type 1 Diabetes
+* Business Transformation
+* Motorcycle Touring
+* Personal Reflections
+
 
 ## 🌍 Sustainability & Leadership
 - [Can Bushido (Samurai Code) help small businesses achieve environmental sustainability?](https://paulbrothwood.blogspot.com/2024/10/can-bushido-samurai-code-help-small.html)
@@ -67,4 +80,14 @@ Long-distance touring, the Suzuki Hayabusa, Honda Adventure Roads and motorcycle
 - [Instagram](https://instagram.com/paulbrothwood)  
 - [Threads](https://www.threads.net/@paulbrothwood)  
 
+About Paul Brothwood
 
+Paul Brothwood is a Chartered Environmentalist (CEnv), Operations Manager and sustainability leader with interests in environmental management, ISO management systems, leadership, project delivery and adventure motorcycling.
+
+Follow my work:
+
+Blogger: https://paulbrothwood.blogspot.com/
+GitHub: https://github.com/PaulBrothwood
+LinkedIn: https://www.linkedin.com/in/paul-brothwood
+Medium: https://medium.com/@paulbrothwood
+Pinterest: https://uk.pinterest.com/paul_brothwood/
