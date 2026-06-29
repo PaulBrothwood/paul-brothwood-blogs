@@ -4,6 +4,15 @@ Welcome to my collection of articles covering sustainability, leadership, operat
 
 This repository acts as the central hub for my published work across Blogger and links to my featured GitHub projects.
 
+## About
+
+This repository brings together articles written by Paul Brothwood on sustainability, leadership, operational excellence, project management and motorcycle travel.
+
+Topics include ISO 9001, ISO 14001, ISO 45001, PRINCE2, ITIL, business transformation, Honda Adventure Roads 2026, the Suzuki Hayabusa and long-distance touring.
+
+New articles are added regularly and grouped by subject to make them easy to explore.
+
+
 ## Featured Projects
 
 * Honda Adventure Roads 2026
