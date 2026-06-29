@@ -1,7 +1,19 @@
-# Paul Brothwood – Blog Index
+# Paul Brothwood | Articles and Publications
 
-A central hub of blogs by **Paul Brothwood**, covering sustainability, leadership, construction, finance, health, music, and motorcycling.  
-This repo links all articles to strengthen indexing in Google Search.
+Welcome to my collection of articles covering sustainability, leadership, operational excellence, project management, motorcycle travel and personal experiences.
+
+This repository acts as the central hub for my published work across Blogger and links to my featured GitHub projects.
+
+## Featured Projects
+
+* Honda Adventure Roads 2026
+  https://github.com/PaulBrothwood/paul-brothwood-honda-adventure-roads-2026
+
+* Professional Profile
+  https://github.com/PaulBrothwood/paul-brothwood-profile
+
+* Photo Library
+  https://github.com/PaulBrothwood/paul-brothwood-photos
 
 ---
 
