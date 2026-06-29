@@ -17,6 +17,25 @@ This repository acts as the central hub for my published work across Blogger and
 
 ---
 
+## Featured Articles
+
+### Honda Adventure Roads 2026
+
+My experience riding the Honda XL750 Transalp through the Pyrenees as part of Honda Adventure Roads 2026.
+
+### Chartered Environmentalist (CEnv)
+
+My professional journey to becoming a Chartered Environmentalist and leading sustainability initiatives.
+
+### Leadership
+
+Articles covering operational leadership, business transformation and project delivery.
+
+### Motorcycling
+
+Long-distance touring, the Suzuki Hayabusa, Honda Adventure Roads and motorcycle travel across Europe.
+
+
 ## 🌍 Sustainability & Leadership
 - [Can Bushido (Samurai Code) help small businesses achieve environmental sustainability?](https://paulbrothwood.blogspot.com/2024/10/can-bushido-samurai-code-help-small.html)
 - [Business Re-engineering with a Health and Safety focus in construction](https://paulbrothwood.blogspot.com/2024/10/business-re-engineering-with-health-and.html)
